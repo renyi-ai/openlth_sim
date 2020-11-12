@@ -1,0 +1,416 @@
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 1
+am 6
+am 13
+am 18
+am 23
+am 28
+am 35
+model.fc_layers.0.act.npy 0.0
+(20, 60000, 300)
+[0.98284788 0.98974092 0.99806426 1.02377809 1.00535188 1.01065942
+ 1.0064304  1.00251834 1.01398066 0.96017968 0.99337414 0.9925504
+ 1.02825767 0.98624296 0.9887501  1.04305132 0.99664528 0.98301174
+ 0.975122   0.        ]
+model.fc_layers.0.act.npy 0.1
+(20, 60000, 300)
+[4.00376849 3.83613363 3.7572314  3.90047767 3.79972716 3.67465943
+ 3.66292211 3.34517061 3.23796899 3.09341194 2.92925109 2.60061158
+ 2.25224213 2.04334103 2.04153602 1.83801765 1.69631963 1.66121675
+ 1.50336336 0.        ]
+model.fc_layers.0.act.npy 0.2
+(20, 60000, 300)
+[11.30681509 10.67403779 10.44106068 10.48927971  9.99195877  9.2280909
+  9.07328113  7.70555956  6.84140692  5.92130412  5.04504111  4.01876421
+  3.32523952  2.78877087  2.66634173  2.5510572   2.35333393  2.0740119
+  1.98356564  0.        ]
+model.fc_layers.0.act.npy 0.3
+(20, 60000, 300)
+[33.71888681 31.53139823 30.70355542 29.87889812 27.65960225 24.3996301
+ 23.18136559 18.28781496 14.59509117 11.10820314  8.54692981  5.95911049
+  4.64096784  3.59083076  3.46717438  3.46132556  2.72567997  2.59488228
+  2.36636929  0.        ]
+model.fc_layers.0.act.npy 0.4
+(20, 60000, 300)
+[122.91737583 113.80593807 109.87759382 103.82914711  93.05264153
+  78.32829611  71.11248646  51.5139684   36.71055753  24.74050579
+  15.97175374  10.16375264   7.33498375   4.83084911   4.81843657
+   5.25093266   3.38585452   3.68906768   3.14654357   0.        ]
+model.fc_layers.0.act.npy 0.5
+(20, 60000, 300)
+[657.81512772 599.84116887 573.16260809 526.58304344 454.09492098
+ 363.12801908 314.03240235 208.62647848 131.20644071  77.27691084
+  43.02445085  24.08875857  15.96362191   8.76692178   9.675082
+   9.78014114   4.45045224   7.2586224    4.61862638   0.        ]
+model.fc_layers.0.act.npy 0.6
+(20, 60000, 300)
+[3365.80187122 3018.17941662 2847.51238305 2539.49917446 2105.17611447
+ 1590.26747386 1302.83489268  798.18106769  442.65272427  223.34232251
+  117.6978536    55.80022014   32.46945515   15.58833242   14.12438085
+   15.1458448     5.1067694    15.59988993    5.29334067    0.        ]
+model.fc_layers.0.act.npy 0.7
+(20, 60000, 300)
+[5.633200e+06 4.958978e+06 4.615539e+06 3.982921e+06 3.166591e+06
+ 2.247021e+06 1.734342e+06 9.839070e+05 4.743340e+05 2.025130e+05
+ 1.101860e+05 4.200500e+04 2.188200e+04 5.802000e+03 6.667000e+03
+ 1.184900e+04 1.986000e+03 1.423400e+04 1.219000e+03 0.000000e+00]
+model.fc_layers.0.act.npy 0.8
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+ nan nan]
+model.fc_layers.0.act.npy 0.9
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+ nan nan]
+model.fc_layers.0.act.npy 1.0
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf nan
+ nan nan]
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 2
+am 10
+model.fc_layers.2.act.npy 0.0
+(20, 60000, 300)
+[1.03566494 0.98585945 1.02486684 1.01356281 1.05534374 0.9409797
+ 1.00365936 0.99503805 0.95166946 0.99167147 1.06578048 0.9868009
+ 1.06201199 1.06407909 1.02623322 1.07145209 0.99427622 0.92858868
+ 1.0437027  0.        ]
+model.fc_layers.2.act.npy 0.1
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf nan inf nan
+ nan nan]
+model.fc_layers.2.act.npy 0.2
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.3
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.4
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.5
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.6
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.7
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.8
+(20, 60000, 300)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 0.9
+(20, 60000, 300)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.2.act.npy 1.0
+(20, 60000, 300)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+model.fc.act.npy 0.0
+(20, 60000, 10)
+[1.07521    0.54134    0.53592333 0.89445    1.15361    0.42471667
+ 0.50939333 0.62227333 1.32587    1.41032667 1.41500333 0.8
+ 1.48459    0.6968     0.74415667 1.59976333 1.         1.4
+ 1.4        0.        ]
+model.fc.act.npy 0.1
+(20, 60000, 10)
+[inf inf inf inf inf inf inf inf inf inf inf inf nan inf nan inf inf nan
+ inf nan]
+model.fc.act.npy 0.2
+(20, 60000, 10)
+[inf inf inf inf inf inf inf nan inf nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.3
+(20, 60000, 10)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.4
+(20, 60000, 10)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.5
+(20, 60000, 10)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.6
+(20, 60000, 10)
+[inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.7
+(20, 60000, 10)
+[inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.8
+(20, 60000, 10)
+[inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 0.9
+(20, 60000, 10)
+[inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc.act.npy 1.0
+(20, 60000, 10)
+[inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 1
+am 1
+am 10
+model.fc_layers.1.act.npy 0.0
+(20, 60000, 300)
+[0.97938908 0.96987962 0.97731771 0.94776737 0.9718093  0.99065362
+ 1.01341728 1.00246222 0.97256128 0.96262391 0.97754735 1.01916542
+ 0.96778961 0.91135755 0.97299282 0.99536662 1.02349239 0.98603011
+ 0.99071547 0.        ]
+model.fc_layers.1.act.npy 0.1
+(20, 60000, 300)
+[237.79789443 233.40398039 223.00548024 222.45275454 226.40147101
+ 201.08609749 193.50533603 159.04989905 136.37228151 113.05708105
+  81.08252091  38.99515431  36.49850014  20.38254975  12.29304875
+   8.7383617    4.56368618   3.58820306   3.15526392   0.        ]
+model.fc_layers.1.act.npy 0.2
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf
+ nan nan]
+model.fc_layers.1.act.npy 0.3
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf inf inf nan inf nan
+ nan nan]
+model.fc_layers.1.act.npy 0.4
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan
+ nan nan]
+model.fc_layers.1.act.npy 0.5
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.1.act.npy 0.6
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.1.act.npy 0.7
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.1.act.npy 0.8
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.1.act.npy 0.9
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.1.act.npy 1.0
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan
+ nan nan]
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 1
+am 2
+am 2
+model.fc_layers.4.act.npy 0.0
+(20, 60000, 100)
+[0.95544904 0.93483301 0.98525032 0.96648045 0.98994199 0.94796442
+ 0.79765032 1.02319712 0.86048269 1.07776955 0.92182179 0.88463942
+ 0.68665321 0.89441218 1.16973846 0.91485705 0.96153846 0.92307692
+ 1.03878814 0.        ]stats.py:56: RuntimeWarning: divide by zero encountered in true_divide
+  res[i,o] = dist(st[i], st[o]) / total
+stats.py:56: RuntimeWarning: invalid value encountered in true_divide
+  res[i,o] = dist(st[i], st[o]) / total
+
+model.fc_layers.4.act.npy 0.1
+(20, 60000, 100)
+[inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.2
+(20, 60000, 100)
+[inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.3
+(20, 60000, 100)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.4
+(20, 60000, 100)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.5
+(20, 60000, 100)
+[inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.6
+(20, 60000, 100)
+[inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.7
+(20, 60000, 100)
+[inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.8
+(20, 60000, 100)
+[inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 0.9
+(20, 60000, 100)
+[inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.4.act.npy 1.0
+(20, 60000, 100)
+[inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 0
+am 3
+am 16
+model.fc_layers.3.act.npy 0.0
+(20, 60000, 300)
+[0.85467997 0.89373585 0.85533499 0.98607228 0.89463183 0.94712359
+ 0.88319803 0.89988355 0.9216635  0.94513267 0.96435896 0.98706632
+ 0.8758773  0.7902005  0.92822627 0.93607211 0.8714167  0.90965845
+ 0.98774852 0.        ]
+model.fc_layers.3.act.npy 0.1
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf inf inf inf inf nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.2
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.3
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.4
+(20, 60000, 300)
+[inf inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.5
+(20, 60000, 300)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.6
+(20, 60000, 300)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.7
+(20, 60000, 300)
+[inf inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.8
+(20, 60000, 300)
+[inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 0.9
+(20, 60000, 300)
+[inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]
+model.fc_layers.3.act.npy 1.0
+(20, 60000, 300)
+[inf inf inf inf inf inf nan nan nan nan nan nan nan nan nan nan nan nan
+ nan nan]

@@ -1,0 +1,2860 @@
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 1)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_1/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 2)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_2/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 3)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_3/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 4)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_4/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 5)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_5/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 6)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_6/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 7)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_7/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 8)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_8/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 9)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_9/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 10)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_10/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 11)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_11/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 12)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_12/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 13)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_13/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 14)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_14/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4/home/csadrian/venvs/pt37/lib/python3.7/site-packages/torch/storage.py:34: FutureWarning: pickle support for Storage will be removed in 1.5. Use `torch.save` instead
+  warnings.warn("pickle support for Storage will be removed in 1.5. Use `torch.save` instead", FutureWarning)
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 1)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_1/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 2)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_2/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 3)
+----------------------------------------------------------==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+Traceback (most recent call last):
+  File "open_lth.py", line 62, in <module>
+    main()
+  File "open_lth.py", line 58, in main
+    platform.run_job(runner_registry.get(runner_name).create_from_args(args).run)
+  File "/home/csadrian/open_lth/platforms/base.py", line 118, in run_job
+    f()
+  File "/home/csadrian/open_lth/lottery/branch/runner.py", line 54, in run
+    self.runner.run()
+  File "/home/csadrian/open_lth/lottery/branch/base.py", line 134, in run
+    self.branch_function(**args)
+  File "/home/csadrian/open_lth/lottery/branch/save_activations.py", line 54, in branch_function
+    output = model(examples)
+  File "/home/csadrian/venvs/pt37/lib/python3.7/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/csadrian/open_lth/pruning/pruned_model.py", line 41, in forward
+    return self.model.forward(x)
+  File "/home/csadrian/open_lth/models/mnist_lenet.py", line 36, in forward
+    x = F.relu(layer(x))
+  File "/home/csadrian/venvs/pt37/lib/python3.7/site-packages/torch/nn/modules/module.py", line 552, in __call__
+    hook_result = hook(self, input, result)
+  File "/home/csadrian/open_lth/lottery/branch/save_activations.py", line 41, in save_activation
+    inpa[name].append(inp.cpu())
+AttributeError: 'tuple' object has no attribute 'cpu'
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+Traceback (most recent call last):
+  File "open_lth.py", line 62, in <module>
+    main()
+  File "open_lth.py", line 58, in main
+    platform.run_job(runner_registry.get(runner_name).create_from_args(args).run)
+  File "/home/csadrian/open_lth/platforms/base.py", line 118, in run_job
+    f()
+  File "/home/csadrian/open_lth/lottery/branch/runner.py", line 54, in run
+    self.runner.run()
+  File "/home/csadrian/open_lth/lottery/branch/base.py", line 134, in run
+    self.branch_function(**args)
+  File "/home/csadrian/open_lth/lottery/branch/save_activations.py", line 55, in branch_function
+    np.save(os.path.join(self.branch_root, "inpa.npy"),  np.concatenate(inpa, axis=0))
+  File "<__array_function__ internals>", line 6, in concatenate
+TypeError: The first input argument needs to be a sequence
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+Traceback (most recent call last):
+  File "open_lth.py", line 62, in <module>
+    main()
+  File "open_lth.py", line 58, in main
+    platform.run_job(runner_registry.get(runner_name).create_from_args(args).run)
+  File "/home/csadrian/open_lth/platforms/base.py", line 118, in run_job
+    f()
+  File "/home/csadrian/open_lth/lottery/branch/runner.py", line 54, in run
+    self.runner.run()
+  File "/home/csadrian/open_lth/lottery/branch/base.py", line 134, in run
+    self.branch_function(**args)
+  File "/home/csadrian/open_lth/lottery/branch/save_activations.py", line 62, in branch_function
+    np.save(os.path.join(self.branch_root, name + ".inp.npy"), act)
+  File "<__array_function__ internals>", line 6, in save
+  File "/home/csadrian/venvs/pt37/lib/python3.7/site-packages/numpy/lib/npyio.py", line 529, in save
+    pickle_kwargs=dict(fix_imports=fix_imports))
+  File "/home/csadrian/venvs/pt37/lib/python3.7/site-packages/numpy/lib/format.py", line 675, in write_array
+    array.tofile(fp)
+OSError: Not enough free space to write 188160000 bytes
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Traceback (most recent call last):
+  File "open_lth.py", line 62, in <module>
+    main()
+  File "open_lth.py", line 58, in main
+    platform.run_job(runner_registry.get(runner_name).create_from_args(args).run)
+  File "/home/csadrian/open_lth/platforms/base.py", line 118, in run_job
+    f()
+  File "/home/csadrian/open_lth/lottery/branch/runner.py", line 54, in run
+    self.runner.run()
+  File "/home/csadrian/open_lth/lottery/branch/base.py", line 134, in run
+    self.branch_function(**args)
+  File "/home/csadrian/open_lth/lottery/branch/save_activations.py", line 26, in branch_function
+    model = PrunedModel(models.registry.get(self.level_root, state_step, self.lottery_desc.model_hparams), Mask.load(self.level_root))
+TypeError: get() takes from 1 to 2 positional arguments but 3 were given
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 1)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_1/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 2)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_2/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 3)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_3/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 4)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_4/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 5)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_5/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 6)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_6/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 7)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_7/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 8)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_8/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 9)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_9/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 10)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_10/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 11)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_11/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 12)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_12/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 13)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_13/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 14)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_14/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 15)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_15/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 16)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_16/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 17)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_17/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 18)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_18/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 19)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_19/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 20)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_20/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 21)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_21/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 22)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_22/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 23)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_23/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 24)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_24/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 25)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_25/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 26)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_26/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 27)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_27/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 28)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_28/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 0)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_0/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 1)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_1/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 2)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_2/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 3)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_3/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 4)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_4/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 5)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_5/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 6)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_6/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 7)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_7/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 8)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_8/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 9)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_9/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 10)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_10/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 11)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_11/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 12)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_12/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 13)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_13/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 14)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_14/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 15)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_15/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 16)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_16/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 17)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_17/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 18)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_18/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 19)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_19/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 20)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_20/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 21)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_21/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 22)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_22/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 23)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_23/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 24)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_24/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 25)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_25/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 26)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_26/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 27)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_27/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
+==================================================================================
+Branch save_activations (Replicate 1, Level 28)
+----------------------------------------------------------------------------------
+Dataset Hyperparameters
+    * dataset_name => mnist
+    * batch_size => 128
+Model Hyperparameters
+    * model_name => mnist_lenet_300_300_300_300_100
+    * model_init => kaiming_normal
+    * batchnorm_init => uniform
+Training Hyperparameters
+    * optimizer_name => sgd
+    * lr => 0.1
+    * training_steps => 40ep
+Pruning Hyperparameters
+    * pruning_strategy => sparse_global
+    * pruning_fraction => 0.2
+    * pruning_layers_to_ignore => fc.weight
+Branch Arguments
+
+Output Location: /home/csadrian/open_lth_data/lottery_338d12765906cd84453d3c3ed830dd2b/replicate_1/level_28/lottery_branch_save_activations_7b99794732481fff503d5290ee43fb4b
+==================================================================================
+
+Saving outputs.
+
+model
+model.fc_layers
+model.fc_layers.0
+model.fc_layers.1
+model.fc_layers.2
+model.fc_layers.3
+model.fc_layers.4
+model.fc
+model.criterion
+PAS DE Zhe SHUFFLER
