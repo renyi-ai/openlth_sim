@@ -20,32 +20,32 @@ class Model(base.Model):
         outputs = outputs or 10
         self.net = nn.Sequential(
             #torch.nn.Conv2d(in_channels, out_channels, kernel_size, stride, padding
-            nn.Conv2d(3, 16, 3, 1, 1, bias=False),
+            nn.Conv2d(3, 16, 3, 1, 1),
             nn.BatchNorm2d(16),
             nn.ReLU(True),
-            nn.Conv2d(16, 16, 3, 1, 1, bias=False),
+            nn.Conv2d(16, 16, 3, 1, 1),
             nn.BatchNorm2d(16),
             nn.ReLU(True),
 
-            nn.Conv2d(16, 32, 3, 2, 1, bias=False),
+            nn.Conv2d(16, 32, 3, 2, 1),
             nn.BatchNorm2d(32),
             nn.ReLU(True),
             
-            nn.Conv2d(32, 32, 3, 1, 1, bias=False),
+            nn.Conv2d(32, 32, 3, 1, 1),
             nn.BatchNorm2d(32),
             nn.ReLU(True),
-            nn.Conv2d(32, 32, 3, 1, 1, bias=False),
+            nn.Conv2d(32, 32, 3, 1, 1),
             nn.BatchNorm2d(32),
             nn.ReLU(True),
 
-            nn.Conv2d(32, 64, 3, 2, 1, bias=False),
+            nn.Conv2d(32, 64, 3, 2, 1),
             nn.BatchNorm2d(64),
             nn.ReLU(True),
 
-            nn.Conv2d(64, 64, 3, 1, 1, bias=False),
+            nn.Conv2d(64, 64, 3, 1, 1),
             nn.BatchNorm2d(64),
             nn.ReLU(True),            
-            nn.Conv2d(64, 64, 3, 1, 1, bias=False),
+            nn.Conv2d(64, 64, 3, 1, 1),
             nn.BatchNorm2d(64),
             nn.ReLU(True),
         )
