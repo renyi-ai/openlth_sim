@@ -6,6 +6,7 @@ import re
 import numpy as np
 import os
 
+#USAGE: python compute_distances.py DIR1 DIR2, both ending in replicate_#/
 
 np.set_printoptions(threshold=sys.maxsize)
 
@@ -25,6 +26,13 @@ def center_gram(gram):
     raise ValueError('Input must be a symmetric matrix.')
   gram = gram.copy()
 
+  #n = gram.shape[0]
+  #np.fill_diagonal(gram, 0)
+  #means = np.sum(gram, 0, dtype=np.float64) / (n - 2)
+  #means -= np.sum(means) / (2 * (n - 1))
+  #gram -= means[:, None]
+  #gram -= means[None, :]
+  #np.fill_diagonal(gram, 0)
   means = np.mean(gram, 0, dtype=np.float64)
   means -= np.mean(means) / 2
   gram -= means[:, None]
@@ -51,14 +59,21 @@ def load_paths(basedir1, basedir2, level):
 #MAIN
 
 #Parameters: Number of layers, level of pruning.
-level = 0
+level = 7
 paths = load_paths(sys.argv[1], sys.argv[2], level = level)
-n_layers = 2#max(paths[0].keys())
 
+n_layers = len(paths[0].keys())
+#ERROR CHECK:
+print(n_layers, paths[0].keys())
+for layer in paths[0].keys():
+    for i in range(2):
+        print(paths[i][layer])
+        
 
 #SETUP environment - directory, experiment ids.
 distances_basedir = '../storage/distances/'
 assert os.path.isdir(distances_basedir), '{} is not a valid base directory'.format(distances_basedir)
+
 #Create experiment directory.
 exp_id = 0
 while os.path.isdir(distances_basedir + "experiment_{}/".format(exp_id)):
@@ -73,17 +88,18 @@ else:
 #Save IDs.
 with open(distances_dir + 'experiment_{}.txt'.format(exp_id), "w+") as exp_placeholder:
     experiment_info = '{}\n'.format(n_layers)+\
-                      "Computing distances on first {} layers, on level {}, for experiments: \n".format(n_layers, level)+\
+                      "Computing distances on {} layers, on level {}, for experiments: \n".format(n_layers, level)+\
                       sys.argv[1] + '\n' + \
                       sys.argv[2] + '\n'
     exp_placeholder.write(experiment_info)
 
 
 #Compute Centered distances.
-for layer in range(n_layers):
+for layer in paths[0].keys():
     for i in range(2):
         layer_activations = np.load(paths[i][layer])
         print("Computing distances of dataset {}, layer {} of shape {}...".format(i, layer, layer_activations.shape))
+        print("\n {}".format(paths[i][layer]))
         activation_distances = distances(layer_activations)
         np.save(distances_dir + 'distances_{}_layer_{}.npy'.format(i, layer), activation_distances)
 
