@@ -26,6 +26,10 @@ class Branch(base.Branch):
         mask = Mask.load(self.level_root)
         mask.save(self.branch_root)
 
+        # In order to compare the same activations, remove all randomness.
+        self.lottery_desc.dataset_hparams.do_not_augment = True
+        
+
         model.eval()
         model.to(get_platform().torch_device)
         print("Saving outputs.")
@@ -33,20 +37,30 @@ class Branch(base.Branch):
         train_loader = datasets.registry.get(self.lottery_desc.dataset_hparams, train=True)
         test_loader = datasets.registry.get(self.lottery_desc.dataset_hparams, train=False)
 
+        # In order to compare the same activations, remove all randomness.
+        train_loader.shuffle(-1)
+
         activations = collections.defaultdict(list)
         def save_activation(name, mod, inp, out):
             activations[name].append(out.cpu())
 
         for name, m in model.named_modules():
-            print(name)
-            # partial to assign the layer name to each hook
-            m.register_forward_hook(partial(save_activation, name))
+            layer_index = [int(d) for d in name.split('.') if d.isdigit()]
+            if layer_index and layer_index[0] % 3 == 0:
+                print(name, layer_index)#, m)
+                # partial to assign the layer name to each hook
+                m.register_forward_hook(partial(save_activation, name))
         with torch.no_grad():
             for examples, labels in train_loader:
                 examples = examples.to(get_platform().torch_device)
                 labels = labels.squeeze().to(get_platform().torch_device)
                 output = model(examples)
-        
+
+        #########CAUTION#################################
+        # THIS IS ONLY SET BACK TO GENERATE SAME HASH....
+        #########CAUTION#################################
+        self.lottery_desc.dataset_hparams.do_not_augment = False
+
         activations = {name: torch.cat(outputs, 0) for name, outputs in activations.items()}
         for name, act in activations.items():
             np.save(os.path.join(self.branch_root, name + ".act.npy"), act)
