@@ -7,6 +7,7 @@ import numpy as np
 import os
 
 #USAGE: python compute_distances.py DIR1 DIR2, both ending in replicate_#/
+#Computes for same level.
 
 np.set_printoptions(threshold=sys.maxsize)
 
@@ -41,26 +42,44 @@ def center_gram(gram):
   return gram
 
 #Load paths in a 2 element list of dictionaries.
-#Each dictionary maps i to the path of activations of the i'th layer (of level=level).
-def load_paths(basedir1, basedir2, level):
-    basedirs = [basedir1, basedir2]
+#Each dictionary maps j to the path of activations of the j'th layer (of pruning level=level).
+def load_paths(basedir1, basedir2):#, level):
+
+    def name_format(path):
+        if path.endswith('/'):
+            return path
+        else:
+            return path + '/'
+    
+    basedirs = [name_format(basedir1), name_format(basedir2)]
     layer_to_path = []
     for i in range(2):
         layer_to_path.append(collections.defaultdict(lambda: collections.defaultdict(str)))
-        files = glob.glob(basedirs[i] + "/**/lottery_branch_save_activations*/*.act.npy")
+        direct = basedirs[i] + "lottery_branch_save_activations*/*.act.npy"
+        files = glob.glob(direct)
+        #print(files)
         for filepath in files:
-            res = re.match(r'.*level_(?P<level>[0-9]+).*net.(?P<net>[0-9]+).*', filepath)
-            if res and int(res.group('level')) == level:
-                layer = int(res.group('net'))
-                layer_to_path[i][layer] = filepath
+            #print(filepath)
+            #NON CONV:#
+            #res = re.match(r'.*level_(?P<level>[0-9]+).*net.(?P<layer>[0-9]+).*', filepath)
+            #CONV:#
+            res = re.match(r'.*level_(?P<level>[0-9]+).*blocks.(?P<layer>[0-9]+).*conv(?P<conv>[0-9]+).*', filepath)
+            if res: #and int(res.group('level')) == level:
+                layer = int(res.group('layer'))
+                conv = int(res.group('conv'))
+                layer_to_path[i][2*layer+conv-1] = filepath
+                #layer_to_path[i][layer] = filepath
     return layer_to_path
 
 
 #MAIN
 
 #Parameters: Number of layers, level of pruning.
-level = 7
-paths = load_paths(sys.argv[1], sys.argv[2], level = level)
+#level = 7
+print(sys.argv[1], sys.argv[2])
+paths = load_paths(sys.argv[1], sys.argv[2])#, level = level)
+
+assert len(paths[0].keys()) == len(paths[1].keys()), 'Loading activations failed, number of layers mismatched.'
 
 n_layers = len(paths[0].keys())
 #ERROR CHECK:
@@ -88,7 +107,7 @@ else:
 #Save IDs.
 with open(distances_dir + 'experiment_{}.txt'.format(exp_id), "w+") as exp_placeholder:
     experiment_info = '{}\n'.format(n_layers)+\
-                      "Computing distances on {} layers, on level {}, for experiments: \n".format(n_layers, level)+\
+                      "Computing distances on {} layers, for experiments: \n".format(n_layers)+\
                       sys.argv[1] + '\n' + \
                       sys.argv[2] + '\n'
     exp_placeholder.write(experiment_info)
@@ -97,9 +116,10 @@ with open(distances_dir + 'experiment_{}.txt'.format(exp_id), "w+") as exp_place
 #Compute Centered distances.
 for layer in paths[0].keys():
     for i in range(2):
+        print("Loading activations of dataset {}, layer {}:".format(i, layer))
+        print(paths[i][layer])
         layer_activations = np.load(paths[i][layer])
-        print("Computing distances of dataset {}, layer {} of shape {}...".format(i, layer, layer_activations.shape))
-        print("\n {}".format(paths[i][layer]))
+        print("Computing distances of layer {}, shape {}".format(layer, layer_activations.shape))
         activation_distances = distances(layer_activations)
         np.save(distances_dir + 'distances_{}_layer_{}.npy'.format(i, layer), activation_distances)
 

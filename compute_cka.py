@@ -11,7 +11,7 @@ import os
 
 
 experiment_id = sys.argv[1]
-mod_n_layers = 3
+mod_n_layers = 1
 distances_dir = '../storage/distances/experiment_{}/'.format(experiment_id)
 with open(distances_dir + 'experiment_{}.txt'.format(experiment_id)) as f:
   #saved number of layers as first line...
