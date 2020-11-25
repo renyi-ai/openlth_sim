@@ -44,11 +44,19 @@ class Branch(base.Branch):
         def save_activation(name, mod, inp, out):
             activations[name].append(out.cpu())
 
+        #for name, m in model.named_children():
+        #    print("NAME=", name)
+        #    print("PARAMETERS=", m)
+            
         for name, m in model.named_modules():
-            layer_index = [int(d) for d in name.split('.') if d.isdigit()]
-            if layer_index and layer_index[0] % 3 == 0:
-                print(name, layer_index)#, m)
+            #layer_index = [int(d) for d in name.split('.') if d.isdigit()]
+            #print(name, layer_index, m)
+            #if layer_index and layer_index[0] % 3 == 0:
+                #print(name, layer_index, m)
                 # partial to assign the layer name to each hook
+            #print(name, m)
+            if 'conv' in name:
+                print(name, m)
                 m.register_forward_hook(partial(save_activation, name))
         with torch.no_grad():
             for examples, labels in train_loader:
